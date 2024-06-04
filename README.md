@@ -1,4 +1,4 @@
-# Papers
-Datasets and codes for published-papers
-#已发表文章数据及代码
-ID：2020P01
+# Organoid Avatar
+Next-generation AI Model for Organoid industry
+#下一代类器官智能体
+#代号  挖掘机
